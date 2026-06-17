@@ -25,3 +25,9 @@ The dashboard was designed to answer the following questions:
 ## Conclusion
 The analysis identified the West region as the strongest sales market, while Technology emerged as the leading product category. Copiers delivered the highest profitability among all sub-categories, and sales peaked in November, indicating a strong seasonal effect.
 
+##Author
+
+Kibet Hillary
+
+Applied Statistician | Data Analyst
+
