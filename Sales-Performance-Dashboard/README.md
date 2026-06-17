@@ -13,10 +13,10 @@ The dashboard was designed to answer the following questions:
 4. Which product sub-category generates the highest profit?
 
 ## Key Findings
-November recorded the highest monthly sales, reaching $352,461.07.
-The West region generated the highest sales revenue, recording $725,457.82 in total sales.
-Technology was the highest-performing category, generating $836,154.03 in sales.
-Copiers were the most profitable sub-category, contributing $55,617.82 in profit.
+- November recorded the highest monthly sales, reaching $352,461.07.
+- The West region generated the highest sales revenue, recording $725,457.82 in total sales.
+- Technology was the highest-performing category, generating $836,154.03 in sales.
+- Copiers were the most profitable sub-category, contributing $55,617.82 in profit.
 
 ## Dashboard Interaction
 - <a href="https://github.com/kibeth2011/PowerBI-Projects/blob/main/Sales-Performance-Dashboard/dashboard.PNG">View Dashboard</a>
