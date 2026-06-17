@@ -14,7 +14,7 @@ The dashboard was designed to answer the following questions:
 8. How did revenue and profit change over time?
 
 ## Dataset
-- <a href="[https://www.kaggle.com/datasets/konstantinognev/sample-superstorecsv?resource=download](https://learn.microsoft.com/en-us/power-bi/create-reports/sample-financial-download)">Microsoft Financial Sample Dataset</a>
+- <a href="https://learn.microsoft.com/en-us/power-bi/create-reports/sample-financial-download)">Microsoft Financial Sample Dataset</a>
 
 ## Data Preparation
 The following steps were performed before creating the dashboard:
