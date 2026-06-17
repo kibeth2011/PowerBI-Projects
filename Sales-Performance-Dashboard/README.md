@@ -29,7 +29,15 @@ The analysis identified the West region as the strongest sales market, while Tec
 
 Kibet Hillary
 
-Applied Statistician | Data Analyst
+BSc Applied Statistics, with IT (Second Class Honours Upper Division)
+
+Aspiring Data Analyst/Scientist
 
 Email: kibeth2011@gmail.com
+
+- <a href="https://github.com/kibeth2011">GitHub</a>
+
+- <a href="https://www.linkedin.com/in/kibet-hillary-4654507b/">LinkedIn</a>
+
+
 
