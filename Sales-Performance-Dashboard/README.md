@@ -5,4 +5,13 @@ This project analyzes sales performance, profitability, and product trends using
 ## Dataset Used
 - <a href="https://www.kaggle.com/datasets/konstantinognev/sample-superstorecsv?resource=download">Superstore Sales Dataset</a>
 
+## Business Questions
+The dashboard was designed to answer the following questions:
+1. Which month records the highest sales performance?
+2. Which region generates the highest sales revenue?
+3. Which product category contributes the most to total sales?
+4. Which product sub-category generates the highest profit?
+
+## Dashboard Interaction
+
 
