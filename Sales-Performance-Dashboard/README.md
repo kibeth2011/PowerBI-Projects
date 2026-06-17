@@ -13,5 +13,5 @@ The dashboard was designed to answer the following questions:
 4. Which product sub-category generates the highest profit?
 
 ## Dashboard Interaction
-
+- <a href="https://github.com/kibeth2011/PowerBI-Projects/blob/main/Sales-Performance-Dashboard/dashboard.PNG">View Dashboard</a>
 
