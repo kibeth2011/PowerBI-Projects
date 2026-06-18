@@ -29,7 +29,8 @@ The following steps were performed before creating the dashboard:
 - Power Query
 - DAX (Data Analysis Expressions)
 - Data Visualization
-- Dashboard Features
+  
+## Dashboard Features
 - Revenue KPI
 - Profit KPI
 - Cost KPI
@@ -40,3 +41,29 @@ The following steps were performed before creating the dashboard:
 - Profit by Product
 - Revenue by Segment
 - Interactive Slicers and Filters
+
+## Key Findings
+- The total revenue generated is approximately $118.7 million.
+- Total profit amounted to approximately $16.9 million.
+- Total costs incurred is approximately $101.8 million.
+- The business achieved an overall profit margin of 14.23%.
+- The United States generated the highest revenue among all countries.
+- Paseo was the most profitable product.
+- The Government segment contributed the largest share of total revenue.
+- Revenue and profit exhibited an overall upward trend throughout the reporting period, indicating strong financial performance and continued business growth.
+
+## Conclusion
+The results indicate that the organization maintained positive profitability with a profit margin of 14.23%, while the United States, Paseo product line, and Government segment emerged as key drivers of financial performance. 
+
+## Dashboard Preview
+<img width="970" height="548" alt="Dashboard" src="https://github.com/user-attachments/assets/4ea2e643-04ff-4180-a26d-57269f673312" />
+
+## Author
+
+James Grant
+
+Aspiring Data Analyst | Business Intelligence Analyst
+
+Email: your-email@example.com
+
+GitHub: https://github.com/yourusername
