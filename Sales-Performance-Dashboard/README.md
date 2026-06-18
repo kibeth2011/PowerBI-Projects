@@ -29,7 +29,7 @@ The analysis identified the West region as the strongest sales market, while Tec
 
 Kibet Hillary
 
-BSc Applied Statistics, with IT (Second Class Honours Upper Division)
+BSc Applied Statistics, with IT (Second Class Honours, Upper Division)
 
 Aspiring Data Analyst/Scientist
 
