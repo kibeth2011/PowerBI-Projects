@@ -19,7 +19,6 @@ The dashboard was designed to answer the following questions:
 - Copiers were the most profitable sub-category, contributing $55,617.82 in profit.
 
 ## Dashboard Interaction
-- <a href="https://github.com/kibeth2011/PowerBI-Projects/blob/main/Sales-Performance-Dashboard/dashboard.PNG">View Dashboard</a>
 <img width="966" height="538" alt="dashboard" src="https://github.com/user-attachments/assets/02955c10-2573-4c8c-830d-6524fcda392e" />
 
 ## Conclusion
