@@ -62,7 +62,7 @@ The results indicate that the organization maintained positive profitability wit
 
 Kibet Hillary
 
-BSc Applied Statistics, with IT (Second Class Honours Upper Division)
+BSc Applied Statistics, with IT (Second Class Honours, Upper Division)
 
 Aspiring Data Analyst/Scientist
 
