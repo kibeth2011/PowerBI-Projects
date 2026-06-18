@@ -27,7 +27,7 @@ The following steps were performed before creating the dashboard:
 ## Tools and Technologies
 - Power BI
 - Power Query
-- DAX (Data Analysis Expressions)
+- DAX
 - Data Visualization
   
 ## Dashboard Features
