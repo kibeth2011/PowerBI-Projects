@@ -1,4 +1,4 @@
-# Financial Performance Dashboard
+# Financial Performance Analysis Using Power BI
 ## Project Overview
 This project presents a financial performance analysis dashboard developed in Power BI using Microsoft's Financial Sample dataset. The dashboard provides a comprehensive view of revenue, profit, costs, and profitability trends across countries, products, and market segments. The objective was to transform raw financial data into meaningful business insights that support strategic decision-making.
 
@@ -60,10 +60,14 @@ The results indicate that the organization maintained positive profitability wit
 
 ## Author
 
-James Grant
+Kibet Hillary
 
-Aspiring Data Analyst | Business Intelligence Analyst
+BSc Applied Statistics, with IT (Second Class Honours Upper Division)
 
-Email: your-email@example.com
+Aspiring Data Analyst/Scientist
 
-GitHub: https://github.com/yourusername
+Email: kibeth2011@gmail.com
+
+- <a href="https://github.com/kibeth2011">GitHub</a>
+
+- <a href="https://www.linkedin.com/in/kibet-hillary-4654507b/">LinkedIn</a>
