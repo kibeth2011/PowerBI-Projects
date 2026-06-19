@@ -42,6 +42,9 @@ The following steps were performed before creating the dashboard:
 - Revenue by Segment
 - Interactive Slicers and Filters
 
+## Dashboard Preview
+<img width="970" height="548" alt="Dashboard" src="https://github.com/user-attachments/assets/4ea2e643-04ff-4180-a26d-57269f673312" />
+
 ## Key Findings
 - The total revenue generated is approximately $118.7 million.
 - Total profit amounted to approximately $16.9 million.
@@ -54,9 +57,6 @@ The following steps were performed before creating the dashboard:
 
 ## Conclusion
 The results indicate that the organization maintained positive profitability with a profit margin of 14.23%, while the United States, Paseo product line, and Government segment emerged as key drivers of financial performance. 
-
-## Dashboard Preview
-<img width="970" height="548" alt="Dashboard" src="https://github.com/user-attachments/assets/4ea2e643-04ff-4180-a26d-57269f673312" />
 
 ## Author
 
