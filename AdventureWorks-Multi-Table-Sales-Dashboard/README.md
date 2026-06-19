@@ -1,4 +1,4 @@
-# AdventureWorks Executive Sales Dashboard Using Power BI (2018–2021)
+# AdventureWorks Executive Sales Analysis Using Power BI (2018–2021)
 
 ## Project Overview
 This Power BI dashboard analyzes AdventureWorks sales data using a multi-table data model. The project demonstrates data modeling, relationship management, DAX measures, and interactive dashboard design to provide insights into sales performance, product performance, reseller contributions, and geographic distribution of sales.
