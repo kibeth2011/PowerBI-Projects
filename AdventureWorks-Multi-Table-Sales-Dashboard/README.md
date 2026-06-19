@@ -6,4 +6,4 @@ This Power BI dashboard analyzes AdventureWorks sales data using a multi-table d
 ## Business Questions
 
 ## Dataset
-- <a hfer="https://go.microsoft.com/fwlink/?LinkID=521962">Microsoft Financial Sample Dataset</a>
+- <a href="https://github.com/microsoft/powerbi-desktop-samples/raw/main/AdventureWorks%20Sales%20Sample/AdventureWorks%20Sales.xlsx">AdventureWorks Sales</a>
