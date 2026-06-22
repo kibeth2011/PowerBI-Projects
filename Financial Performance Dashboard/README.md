@@ -1,6 +1,6 @@
 # Financial Performance Analysis Using Power BI
 ## Project Overview
-This project presents a financial performance analysis dashboard developed in Power BI using Microsoft's Financial Sample dataset. The dashboard provides a comprehensive view of revenue, profit, costs, and profitability trends across countries, products, and market segments. The objective was to transform raw financial data into meaningful business insights that support strategic decision-making.
+This project presents a financial performance analysis dashboard using Microsoft's Financial Sample dataset for the period 2013 to 2014. The dashboard provides a comprehensive view of revenue, profit, costs, and profitability trends across countries, products, and market segments. The objective was to transform raw financial data into meaningful business insights that support strategic decision-making.
 
 ## Business Questions
 The dashboard was designed to answer the following questions:
@@ -28,7 +28,6 @@ The following steps were performed before creating the dashboard:
 - Power BI
 - Power Query
 - DAX
-- Data Visualization
   
 ## Dashboard Features
 - Revenue KPI
@@ -54,6 +53,9 @@ The following steps were performed before creating the dashboard:
 - Paseo was the most profitable product.
 - The Government segment contributed the largest share of total revenue.
 - Revenue and profit exhibited an overall upward trend throughout the reporting period, indicating strong financial performance and continued business growth.
+
+## Recommendations
+Based on the analysis, management should continue investing in high-performing products such as Paseo, strengthen its presence in the United States, and maintain strong relationships within the Government segment, which contributed the largest share of revenue. At the same time, the organization should focus on controlling operational costs and improving efficiency to enhance profit margins. By leveraging successful growth strategies and expanding high-performing markets and products, the company can sustain revenue growth and improve overall financial performance.
 
 ## Conclusion
 The results indicate that the organization maintained positive profitability with a profit margin of 14.23%, while the United States, Paseo product line, and Government segment emerged as key drivers of financial performance. 
