@@ -22,7 +22,7 @@ The following steps were performed before developing the dashboard:
 - Verified and cleaned data types for sales, profit, quantity, and date fields.
 - Created DAX measures for Total Sales, Total Orders, Total Profit, and Profit Margin.
 - Validated calculations and visual outputs to ensure reporting accuracy.
-- 
+
 ## Key Findings
 - The business generated approximately $2.30 million in total sales revenue during the reporting period.
 - The company achieved an overall profit margin of 12.47%.
@@ -48,7 +48,6 @@ The following steps were performed before developing the dashboard:
 - Power BI Desktop
 - Power Query
 - DAX
-- Data Visualization
 
 ## Conclusion
 The analysis identified the West region as the strongest sales market, while Technology emerged as the leading product category by sales revenue. Copiers delivered the highest profitability among all sub-categories, demonstrating their importance to overall business success. Sales reached their highest level in November 2017, suggesting a strong seasonal effect and highlighting opportunities for targeted marketing and inventory planning during peak periods. While overall business performance was strong, loss-making sub-categories such as Tables, Bookcases, and Supplies require strategic review to improve profitability. 
