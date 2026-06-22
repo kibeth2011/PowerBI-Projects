@@ -48,7 +48,7 @@ Some sales records were associated with an unknown reseller (ResellerKey = -1). 
 
 ## Key Findings
 1. AdventureWorks generated a revenue of approximately $109.81 million
-2. Sales increased steadily between FY2018 and FY2020, indicating strong business growth.
+2. Sales increased steadily between the FY2018 and the FY2020, indicating strong business growth.
 3. The United States generated the highest sales revenue among all countries.
 4. The Bikes category generated the highest sales revenue among product categories.
 5. The Mountain-200 Black, 38 product line dominated the top-selling products ranking.
@@ -72,7 +72,7 @@ The Components category ranked second, generating approximately $11.8 million in
 - DAX
 
 ## Conclusion and Recommendations
-The analysis demonstrates that AdventureWorks achieved strong sales performance between the FY2018 and FY2020, generating approximately $109.81 million in revenue. The United States emerged as the highest-performing market, while the Bikes category and Mountain-200 Black, 38 product were key revenue drivers. Reseller partnerships, particularly through Value Added Resellers, Warehouses, and World of Bikes, played a significant role in business success. To sustain future growth, management should continue investing in high-performing products, strengthen reseller relationships, and expand successful sales strategies into lower-performing markets.
+The analysis demonstrates that AdventureWorks achieved strong sales performance between the FY2018 and the FY2020, generating approximately $109.81 million in revenue. The United States emerged as the highest-performing market, while the Bikes category and Mountain-200 Black, 38 product were key revenue drivers. Reseller partnerships, particularly through Value Added Resellers, Warehouses, and World of Bikes, played a significant role in business success. To sustain future growth, management should continue investing in high-performing products, strengthen reseller relationships, and expand successful sales strategies into lower-performing markets.
 
 ## Author
 
