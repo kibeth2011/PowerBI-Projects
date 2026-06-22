@@ -1,7 +1,7 @@
-# AdventureWorks Executive Sales Analysis Using Power BI (2018–2021)
+# AdventureWorks Executive Sales Analysis Using Power BI
 
 ## Project Overview
-This Power BI dashboard analyzes AdventureWorks sales data using a multi-table data model. The project demonstrates data modeling, relationship management, DAX measures, and interactive dashboard design to provide insights into sales performance, product performance, reseller contributions, and geographic distribution of sales.
+This Power BI dashboard analyzes AdventureWorks sales data from 2018 to 2021 using a multi-table data model. The project demonstrates data modeling, relationship management, DAX measures, and interactive dashboard design to provide insights into sales performance, product performance, reseller contributions, and geographic distribution of sales.
 
 ## Business Questions
 1. What is the total sales revenue generated?
@@ -56,6 +56,7 @@ Some sales records were associated with an unknown reseller (ResellerKey = -1). 
 7. The business processed approximately 31,000 orders.
 8. The customer base consisted of approximately 18,000 customers.
 9. The company worked with 701 resellers.
+10. No Sales were made in FY2021
 
 ## Matrix Analysis
 The matrix visual reveals that the Bikes category generated the highest sales revenue, contributing over $66 million in sales. Within this category, Value Added Resellers and Warehouses accounted for the largest share of revenue, highlighting the importance of reseller partnerships in driving bicycle sales.
@@ -69,10 +70,9 @@ The Components category ranked second, generating approximately $11.8 million in
 - Power BI Desktop
 - Power Query
 - DAX
-- Data Modeling
 
-## Conclusion
-This project demonstrates the use of Power BI for multi-table data modeling, relationship management, DAX calculations, and interactive dashboard development. By integrating sales, product, reseller, customer, territory, and date data, the dashboard provides meaningful insights into business performance, product demand, reseller effectiveness, and geographic sales distribution. The project highlights practical business intelligence skills applicable to real-world reporting and decision-making environments.
+## Conclusion and Recommendations
+The analysis demonstrates that AdventureWorks achieved strong sales performance between FY2018 and FY2020, generating approximately $109.81 million in revenue. The United States emerged as the highest-performing market, while the Bikes category and Mountain-200 Black, 38 product were key revenue drivers. Reseller partnerships, particularly through Value Added Resellers, Warehouses, and World of Bikes, played a significant role in business success. To sustain future growth, management should continue investing in high-performing products, strengthen reseller relationships, and expand successful sales strategies into lower-performing markets.
 
 ## Author
 
