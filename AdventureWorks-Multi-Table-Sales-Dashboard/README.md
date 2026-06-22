@@ -56,7 +56,7 @@ Some sales records were associated with an unknown reseller (ResellerKey = -1). 
 7. The business processed approximately 31,000 orders.
 8. The customer base consisted of approximately 18,000 customers.
 9. The company worked with 701 resellers.
-10. No Sales were made in FY2021
+10. No Sales were made in the FY2021
 
 ## Matrix Analysis
 The matrix visual reveals that the Bikes category generated the highest sales revenue, contributing over $66 million in sales. Within this category, Value Added Resellers and Warehouses accounted for the largest share of revenue, highlighting the importance of reseller partnerships in driving bicycle sales.
@@ -72,7 +72,7 @@ The Components category ranked second, generating approximately $11.8 million in
 - DAX
 
 ## Conclusion and Recommendations
-The analysis demonstrates that AdventureWorks achieved strong sales performance between FY2018 and FY2020, generating approximately $109.81 million in revenue. The United States emerged as the highest-performing market, while the Bikes category and Mountain-200 Black, 38 product were key revenue drivers. Reseller partnerships, particularly through Value Added Resellers, Warehouses, and World of Bikes, played a significant role in business success. To sustain future growth, management should continue investing in high-performing products, strengthen reseller relationships, and expand successful sales strategies into lower-performing markets.
+The analysis demonstrates that AdventureWorks achieved strong sales performance between the FY2018 and FY2020, generating approximately $109.81 million in revenue. The United States emerged as the highest-performing market, while the Bikes category and Mountain-200 Black, 38 product were key revenue drivers. Reseller partnerships, particularly through Value Added Resellers, Warehouses, and World of Bikes, played a significant role in business success. To sustain future growth, management should continue investing in high-performing products, strengthen reseller relationships, and expand successful sales strategies into lower-performing markets.
 
 ## Author
 
